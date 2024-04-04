@@ -61,16 +61,16 @@
 [GM_pct by Quarters_SubZones.pdf](https://github.com/JoysonPrince/MS-Excel-Sales-and-Finance-analytics/files/13848634/GM_pct.by.Quarters_SubZones.pdf)
 
 **Technical Skills acquired**:
---> Proficiency in ETL methodology (Extract, Transform, Load)
---> Skills to generate a date table using Power Query
---> Ability to derive fiscal months and quarters
+--> Proficiency in ETL
+--> Generated a date table using Power Query and derived fiscal months and quarters
+--> Power Query
 --> Establishing data model relationships with Power Pivot
---> Proficiency in incorporating supplementary data into an existing data model
+--> Conditional formatting
+--> User-empathetic report designing
 --> Utilizing DAX to create calculated columns
 
 **Soft Skills acquired**:
 --> Precise understanding of different metrics in sales and finance
---> Generating user empathetic reports
 --> Defining the raw parameters required in generating any report
 --> Report optimization
 
